@@ -1,0 +1,7 @@
+CREATE TABLE docente(
+	ci integer not null,
+	nombre varchar(50),
+	paterno varchar(50),
+	materno varchar(50),
+	primary key(ci)	
+)
